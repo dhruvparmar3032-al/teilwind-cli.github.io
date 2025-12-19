@@ -34,3 +34,12 @@ enter
 3.enter
 4.create index.html and input.css
 5.npm run start paste this commd to terminal so craete automatic output.css
+
+
+
+git branch --> how many branch in repo
+git branch <branch name>
+ex. git branch development
+git branch
+git checkout <bramchname>
+ex.git checkout development
